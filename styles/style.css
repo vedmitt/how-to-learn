@@ -18,7 +18,7 @@
   /* выше установили ограничения для секции */
   position: relative;
   display: flex;
-  margin: 0 0 100px; 
+  margin: 0 0 100px;
   background-color: #f2f2f2;
 }
 
@@ -219,7 +219,7 @@
   color: #fff;
   /* margin: 100px auto 90px; */
   padding-top: 90px;
-  padding-bottom: 90px; 
+  padding-bottom: 90px;
   position: relative;
   overflow: hidden;
   background-color: #1f1f1f;
@@ -251,7 +251,7 @@
 }
 
 .footer__columns {
-  display: flex; 
+  display: flex;
   width: 90%;
   min-height: 300px;
   justify-content: space-between;
