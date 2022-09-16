@@ -1,5 +1,7 @@
 .video__iframe {
   list-style: none;
+  width: 515px;
+  height: 316px;
   margin: 0 0 0 20px;
 }
 
