@@ -10,8 +10,3 @@
   color: #000;
   background-color: #fff;
 }
-
-a:hover {
-  opacity: 40%;
-  transition: opacity .4s ease;
-}
